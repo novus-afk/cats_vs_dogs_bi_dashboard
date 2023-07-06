@@ -17,8 +17,11 @@ It includes multiple graphs and charts, including a bar graph, a pie chart, and 
 The data used in this dashboard is stored in the excel file of this repository. The data includes various metrics such as the number of pet dogs and cats in US households, as well as their distribution across different regions of the United States.
 
 ## Usage
-To use this dashboard, clone this repository, install Microsoft Power BI and open the file with extension .ipbix.
+To use this dashboard, clone this repository, install Microsoft Power BI and open the file with extension .pbix.
 Simply navigate to the main page and interact with the charts and graphs.
 You can filter the data by states from the dropdown filter or by clicking on the state on map.
 
 I hope you find this dashboard useful and informative. If you have any questions or feedback, please feel free to open an issue or submit a pull request.
+
+## Author
+[Mohammed Yahya Ansari](https://www.linkedin.com/in/yahya-ansari/)
