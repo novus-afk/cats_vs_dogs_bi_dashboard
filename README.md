@@ -1,3 +1,12 @@
+### Metadata
+
+| File Name    | File Type |       Description |  Link   |
+| --------- | ------- | -------------| ----------|
+| Cat vs Dog BI Dashboard - Yahya Ansari.pbix     |    PowerBI File     |  	Contains the PowerBi file for the dashboard    |    [View](https://github.com/yahya-ansariii/cats_vs_dogs_bi_dashboard/blob/master/Cat%20vs%20Dog%20BI%20Dashboard%20-%20Yahya%20Ansari.pbix)    |
+| README.md    |    Markdown     |  The README file for the project    |    [View](https://github.com/yahya-ansariii/cats_vs_dogs_bi_dashboard/blob/master/README.md)    |
+| bi.gif    |    GIF Animation     |  A GIF animation of the BI dashboard    |    [View](https://github.com/yahya-ansariii/cats_vs_dogs_bi_dashboard/blob/master/bi.gif)    |
+| catsvdogs.xlsx     |    Excel File    |  An excel file containing the data used in the dashboard    |    [View](https://github.com/yahya-ansariii/cats_vs_dogs_bi_dashboard/blob/master/catsvdogs.xlsx)    |
+
 # Cats vs Dogs Popularity Dashboard
 This repository contains the data file for a BI dashboard that displays the popularity of cats vs dogs in United States households.
 
